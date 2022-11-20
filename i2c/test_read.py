@@ -23,4 +23,4 @@ while 1:
     log.close()
 
     # Wait
-    time.sleep(2)
+    time.sleep(3)
